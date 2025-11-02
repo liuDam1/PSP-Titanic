@@ -14,7 +14,6 @@ import java.util.Random;
 
 import org.junit.jupiter.api.Test;
 
-import es.etg.psp.titanic.barcos.Bote;
 
 public class BoteTest {
 
